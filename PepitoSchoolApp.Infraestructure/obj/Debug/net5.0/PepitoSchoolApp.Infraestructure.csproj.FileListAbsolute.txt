@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\PepitoSchoolApp\PepitoSchoolApp.Infraestructure\bin\Debug\net5.0\PepitoSchoolApp.Infraestructure.deps.json
+C:\Users\usuario\Desktop\PepitoSchoolApp\PepitoSchoolApp.Infraestructure\bin\Debug\net5.0\PepitoSchoolApp.Infraestructure.dll
+C:\Users\usuario\Desktop\PepitoSchoolApp\PepitoSchoolApp.Infraestructure\bin\Debug\net5.0\ref\PepitoSchoolApp.Infraestructure.dll
+C:\Users\usuario\Desktop\PepitoSchoolApp\PepitoSchoolApp.Infraestructure\bin\Debug\net5.0\PepitoSchoolApp.Infraestructure.pdb
+C:\Users\usuario\Desktop\PepitoSchoolApp\PepitoSchoolApp.Infraestructure\obj\Debug\net5.0\PepitoSchoolApp.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\PepitoSchoolApp\PepitoSchoolApp.Infraestructure\obj\Debug\net5.0\PepitoSchoolApp.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\PepitoSchoolApp\PepitoSchoolApp.Infraestructure\obj\Debug\net5.0\PepitoSchoolApp.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\PepitoSchoolApp\PepitoSchoolApp.Infraestructure\obj\Debug\net5.0\PepitoSchoolApp.Infraestructure.AssemblyInfo.cs
+C:\Users\usuario\Desktop\PepitoSchoolApp\PepitoSchoolApp.Infraestructure\obj\Debug\net5.0\PepitoSchoolApp.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\PepitoSchoolApp\PepitoSchoolApp.Infraestructure\obj\Debug\net5.0\PepitoSchoolApp.Infraestructure.dll
+C:\Users\usuario\Desktop\PepitoSchoolApp\PepitoSchoolApp.Infraestructure\obj\Debug\net5.0\ref\PepitoSchoolApp.Infraestructure.dll
+C:\Users\usuario\Desktop\PepitoSchoolApp\PepitoSchoolApp.Infraestructure\obj\Debug\net5.0\PepitoSchoolApp.Infraestructure.pdb
+C:\Users\usuario\Desktop\PepitoSchoolApp\PepitoSchoolApp.Infraestructure\bin\Debug\net5.0\PepitoSchoolApp.Domain.dll
+C:\Users\usuario\Desktop\PepitoSchoolApp\PepitoSchoolApp.Infraestructure\bin\Debug\net5.0\PepitoSchoolApp.Domain.pdb
+C:\Users\usuario\Desktop\PepitoSchoolApp\PepitoSchoolApp.Infraestructure\obj\Debug\net5.0\PepitoSchoolApp.Infraestructure.csproj.CopyComplete

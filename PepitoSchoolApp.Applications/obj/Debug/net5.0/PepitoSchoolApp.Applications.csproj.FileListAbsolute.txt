@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\PepitoSchoolApp\PepitoSchoolApp.Applications\bin\Debug\net5.0\PepitoSchoolApp.Applications.deps.json
+C:\Users\usuario\Desktop\PepitoSchoolApp\PepitoSchoolApp.Applications\bin\Debug\net5.0\PepitoSchoolApp.Applications.dll
+C:\Users\usuario\Desktop\PepitoSchoolApp\PepitoSchoolApp.Applications\bin\Debug\net5.0\ref\PepitoSchoolApp.Applications.dll
+C:\Users\usuario\Desktop\PepitoSchoolApp\PepitoSchoolApp.Applications\bin\Debug\net5.0\PepitoSchoolApp.Applications.pdb
+C:\Users\usuario\Desktop\PepitoSchoolApp\PepitoSchoolApp.Applications\obj\Debug\net5.0\PepitoSchoolApp.Applications.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\PepitoSchoolApp\PepitoSchoolApp.Applications\obj\Debug\net5.0\PepitoSchoolApp.Applications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\PepitoSchoolApp\PepitoSchoolApp.Applications\obj\Debug\net5.0\PepitoSchoolApp.Applications.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\PepitoSchoolApp\PepitoSchoolApp.Applications\obj\Debug\net5.0\PepitoSchoolApp.Applications.AssemblyInfo.cs
+C:\Users\usuario\Desktop\PepitoSchoolApp\PepitoSchoolApp.Applications\obj\Debug\net5.0\PepitoSchoolApp.Applications.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\PepitoSchoolApp\PepitoSchoolApp.Applications\obj\Debug\net5.0\PepitoSchoolApp.Applications.dll
+C:\Users\usuario\Desktop\PepitoSchoolApp\PepitoSchoolApp.Applications\obj\Debug\net5.0\ref\PepitoSchoolApp.Applications.dll
+C:\Users\usuario\Desktop\PepitoSchoolApp\PepitoSchoolApp.Applications\obj\Debug\net5.0\PepitoSchoolApp.Applications.pdb
+C:\Users\usuario\Desktop\PepitoSchoolApp\PepitoSchoolApp.Applications\bin\Debug\net5.0\PepitoSchoolApp.Domain.dll
+C:\Users\usuario\Desktop\PepitoSchoolApp\PepitoSchoolApp.Applications\bin\Debug\net5.0\PepitoSchoolApp.Domain.pdb
+C:\Users\usuario\Desktop\PepitoSchoolApp\PepitoSchoolApp.Applications\obj\Debug\net5.0\PepitoSchoolApp.Applications.csproj.CopyComplete
